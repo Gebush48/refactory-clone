@@ -160,7 +160,7 @@ img {
 /* Hero Section */
 .hero {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("/images/hero-img.jpg");
+    url("./images/hero-img.jpg");
   background-size: cover;
   background-position: center;
   min-height: 100vh;
@@ -415,7 +415,7 @@ img {
 /* UG Dev Summit Section */
 .ug-dev {
   display: flex;
-  background-image: url("/images/ug-dev-summit.png");
+  background-image: url("./images/ug-dev-summit.png");
   height: 60vh;
   justify-content: space-around;
   align-items: center;
@@ -428,7 +428,7 @@ img {
 
 /* Footer */
 .footer {
-  background: url("/images/footer-bg-img.png");
+  background: url("./images/footer-bg-img.png");
   color: var(--white);
   padding: 80px 0 30px;
 }
